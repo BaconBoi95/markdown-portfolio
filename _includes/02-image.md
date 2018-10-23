@@ -1,1 +1,1 @@
-[Image]{https://github.com/octocat.png}
+![Image](https://github.com/octocat.png)
